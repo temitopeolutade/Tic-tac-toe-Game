@@ -29,55 +29,71 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="0" />
+
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="1" />
+
         <ImageView
             android:id="@+id/imageView3"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="2" />
+
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="3" />
+
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="4" />
+
         <ImageView
             android:id="@+id/imageView6"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="5" />
+
         <ImageView
             android:id="@+id/imageView7"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="6" />
 
         <ImageView
             android:id="@+id/imageView8"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="7" />
+
         <ImageView
             android:id="@+id/imageView9"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="12dp"
-            android:onClick="putin" />
+            android:onClick="putin"
+            android:tag="8" />
     </android.support.v7.widget.GridLayout>
 </android.support.constraint.ConstraintLayout>
